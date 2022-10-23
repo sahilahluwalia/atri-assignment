@@ -442,7 +442,7 @@ const desktopModeProps = {
     "Image2": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/webflow-template-logo.svg"
+        "src": "atri-assignment/app-assets/webflow-template-logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -503,7 +503,7 @@ const desktopModeProps = {
     "Image4": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/cart.svg"
+        "src": "atri-assignment/app-assets/cart.svg"
       },
       "callbacks": {
         "onClick": [
@@ -588,7 +588,7 @@ const desktopModeProps = {
     "Image7": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/1.jpg"
+        "src": "atri-assignment/app-assets/1.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -652,7 +652,7 @@ const desktopModeProps = {
     "Image12": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/5.jpeg"
+        "src": "atri-assignment/app-assets/5.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -665,7 +665,7 @@ const desktopModeProps = {
     "Image13": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/2.jpg"
+        "src": "atri-assignment/app-assets/2.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -774,7 +774,7 @@ const desktopModeProps = {
     "Image16": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/3.jpg"
+        "src": "atri-assignment/app-assets/3.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -787,7 +787,7 @@ const desktopModeProps = {
     "Image18": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/4.jpg"
+        "src": "atri-assignment/app-assets/4.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -878,7 +878,7 @@ const desktopModeProps = {
     "Image28": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/art1.jpeg"
+        "src": "atri-assignment/app-assets/art1.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -942,7 +942,7 @@ const desktopModeProps = {
     "Image30": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/art2.jpeg"
+        "src": "atri-assignment/app-assets/art2.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -985,7 +985,7 @@ const desktopModeProps = {
     "Image31": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/icon.png"
+        "src": "atri-assignment/app-assets/icon.png"
       },
       "callbacks": {
         "onClick": [
@@ -1010,7 +1010,7 @@ const desktopModeProps = {
     "Image44": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/icons8-dribbble-50.png"
+        "src": "atri-assignment/app-assets/icons8-dribbble-50.png"
       },
       "callbacks": {
         "onClick": [
@@ -1023,7 +1023,7 @@ const desktopModeProps = {
     "Image45": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/icons8-behance-30.png"
+        "src": "atri-assignment/app-assets/icons8-behance-30.png"
       },
       "callbacks": {
         "onClick": [
@@ -1036,7 +1036,7 @@ const desktopModeProps = {
     "Image46": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/icons8-linkedin-circled-30.png"
+        "src": "atri-assignment/app-assets/icons8-linkedin-circled-30.png"
       },
       "callbacks": {
         "onClick": [
@@ -1049,7 +1049,7 @@ const desktopModeProps = {
     "Image47": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/icons8-twitter-30.png"
+        "src": "atri-assignment/app-assets/icons8-twitter-30.png"
       },
       "callbacks": {
         "onClick": [
@@ -1062,7 +1062,7 @@ const desktopModeProps = {
     "Image48": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/icons8-instagram-old-48.png"
+        "src": "atri-assignment/app-assets/icons8-instagram-old-48.png"
       },
       "callbacks": {
         "onClick": [
@@ -1075,7 +1075,7 @@ const desktopModeProps = {
     "Image49": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/icons8-facebook-30.png"
+        "src": "atri-assignment/app-assets/icons8-facebook-30.png"
       },
       "callbacks": {
         "onClick": [
@@ -1403,7 +1403,7 @@ const desktopModeProps = {
     "Image50": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/webflow-template-logo.svg"
+        "src": "atri-assignment/app-assets/webflow-template-logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1482,7 +1482,7 @@ const desktopModeProps = {
     "Image78": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/user.svg"
+        "src": "atri-assignment/app-assets/user.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1495,7 +1495,7 @@ const desktopModeProps = {
     "Image79": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/brand.svg"
+        "src": "atri-assignment/app-assets/brand.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1535,7 +1535,7 @@ const desktopModeProps = {
     "Image80": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/motion.svg"
+        "src": "atri-assignment/app-assets/motion.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1575,7 +1575,7 @@ const desktopModeProps = {
     "Image75": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/ui.svg"
+        "src": "atri-assignment/app-assets/ui.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1642,7 +1642,7 @@ const desktopModeProps = {
     "Image76": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/product.svg"
+        "src": "atri-assignment/app-assets/product.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1682,7 +1682,7 @@ const desktopModeProps = {
     "Image77": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/web.svg"
+        "src": "atri-assignment/app-assets/web.svg"
       },
       "callbacks": {
         "onClick": [
