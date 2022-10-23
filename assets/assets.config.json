@@ -1,0 +1,68 @@
+{
+  "webflow-template-logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "cart.svg": {
+    "mime": "image/svg+xml"
+  },
+  "1.jpg": {
+    "mime": "image/jpeg"
+  },
+  "2.jpg": {
+    "mime": "image/jpeg"
+  },
+  "3.jpg": {
+    "mime": "image/jpeg"
+  },
+  "4.jpg": {
+    "mime": "image/jpeg"
+  },
+  "5.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "ui.svg": {
+    "mime": "image/svg+xml"
+  },
+  "product.svg": {
+    "mime": "image/svg+xml"
+  },
+  "web.svg": {
+    "mime": "image/svg+xml"
+  },
+  "user.svg": {
+    "mime": "image/svg+xml"
+  },
+  "brand.svg": {
+    "mime": "image/svg+xml"
+  },
+  "motion.svg": {
+    "mime": "image/svg+xml"
+  },
+  "art1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "art2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "icon.png": {
+    "mime": "image/png"
+  },
+  "icons8-facebook-30.png": {
+    "mime": "image/png"
+  },
+  "icons8-instagram-old-48.png": {
+    "mime": "image/png"
+  },
+  "icons8-twitter-30.png": {
+    "mime": "image/png"
+  },
+  "icons8-linkedin-circled-30.png": {
+    "mime": "image/png"
+  },
+  "icons8-behance-30.png": {
+    "mime": "image/png"
+  },
+  "icons8-dribbble-50.png": {
+    "mime": "image/png"
+  }
+}
